@@ -3,6 +3,7 @@ what is here: these are hex files you can upload into the RISC-V simulator--VIRG
 the sim is here: http://tice.sea.eseo.fr/riscv/
 A blog post about this is here: https://audiodiwhy.blogspot.com/2022/04/risc-v-way-of-future-and-virgule.html
 The code you find in the repository:
+aa-load-some-registers   ; first thing I wrote!  Get some values into source registers.
 AB-ascii hex   ; load 2 values into the ASCII display.
 audiodiwhy-ascii.hex  ; load a string into the ASCII display.  There must be a better way to do this right, but my code works....
 blank.hex   ;loads zilch into memory....so, blank out the memory, so you can start writing fresh code.
